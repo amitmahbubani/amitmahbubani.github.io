@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://amitmahbubani.in/</loc>
+    <lastmod>2020-08-23T02:45:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitmahbubani.in/blog/</loc>
+    <lastmod>2020-08-23T02:45:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitmahbubani.in/blog/hello-world/</loc>
+    <lastmod>2020-08-23T02:45:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amitmahbubani.in/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://amitmahbubani.in/tags/</loc>
+  </url>
+  
+</urlset>

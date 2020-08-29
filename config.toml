@@ -2,10 +2,12 @@
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "codex"
+title = "Amit Mahbubani"
 languageCode = "en-us"
-baseURL = "https://example.org/"
-copyright = "© {year}"
+baseURL = "https://amitmahbubani.in/"
+copyright = "© {year} - Built with Hugo - Thanks for reading 💙"
+
+publishDir = "docs"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
